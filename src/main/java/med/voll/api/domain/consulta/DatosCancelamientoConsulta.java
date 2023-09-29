@@ -10,7 +10,7 @@ public record DatosCancelamientoConsulta(
 		@NotNull
 		Consulta consulta,
 		LocalDateTime fecha,
-		@NotNull
+
 		MotivoCancelacion motivo) {
 
 

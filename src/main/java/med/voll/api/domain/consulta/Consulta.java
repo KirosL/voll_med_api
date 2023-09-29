@@ -32,7 +32,7 @@ public class Consulta {
 
     private LocalDateTime fecha;
 
-    @Column(name = "Motivo_Cancelacion")
+    @Column(name = "motivo_cancelamiento")
     @Enumerated(EnumType.STRING)
     private  MotivoCancelacion motivoCancelacion;
 
