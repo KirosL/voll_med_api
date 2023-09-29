@@ -2,7 +2,7 @@
 
 proyecto: <h2>spring-boot-3</h2>
 
- Este proyecto se basa en una Api Rest de citas medicas, para crear esta appp se uso como guia un curso de Alura que es 
+ Este proyecto se basa en una Api Rest de citas medicas, para crear esta app se uso como guia un curso de Alura que es 
  sobre Spring Boot 3 en el cual se aprendio los siguientes puntos:
 
 <ol>
